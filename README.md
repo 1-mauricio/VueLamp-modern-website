@@ -1,1 +1,1 @@
-# VueLamp-modern-website
+# modern-website
